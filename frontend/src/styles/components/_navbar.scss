@@ -1,0 +1,13 @@
+
+.navbar_container {
+    background-color: red;
+    padding: 10px;
+
+    a {
+        color: white;
+
+        &:hover {
+            color:black;
+        }
+    }
+}
